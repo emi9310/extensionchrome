@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Extensión de ChatGPT",
+    "version": "1.0",
+    "description": "Abre ChatGPT en una pestaña nueva",
+    "permissions": [
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "ChatGPT"
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon16.png",
+      "128": "icon16.png"
+    }
+  }
+  
